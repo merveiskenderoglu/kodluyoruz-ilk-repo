@@ -24,3 +24,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License 
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![](2022-05-25_11-39.png)
